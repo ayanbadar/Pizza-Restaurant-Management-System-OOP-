@@ -1,3 +1,3 @@
 # Pizza-Restaurant-Management-System-OOP-
 
-This is a second semester project implmented on Object Oriented Programming (OOP).
+PRMS is an OOP-based system managing pizza restaurant operations, featuring order processing, employee scheduling, and customer interactions.
